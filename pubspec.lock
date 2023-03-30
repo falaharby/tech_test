@@ -309,22 +309,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.4"
-  whatsapp_share:
-    dependency: "direct main"
-    description:
-      name: whatsapp_share
-      sha256: aa1c51d4f024aefde0a7f2c451c88f7f69d1f923addd1acfe53ec75f5ad7667e
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.0.1"
-  whatsapp_unilink:
-    dependency: "direct main"
-    description:
-      name: whatsapp_unilink
-      sha256: "2cad5519a73024205829f2db46676174af2664112340eb3f84e0444ada5316e5"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.0"
 sdks:
   dart: ">=2.19.4 <3.0.0"
   flutter: ">=3.3.0"
